@@ -1,0 +1,105 @@
+
+body {
+background-color: black;
+font-family: 'Harmattan', sans-serif;
+color: #fff;
+}
+
+h1 {
+	color: white;
+	text-rendering: wrap;
+}
+
+hr {
+	max-width: 90%;
+	margin-right: 0px;
+	margin-top: -20px;
+  border: 3px 0 0 0;  
+}
+
+.opening {
+	height: 600px;
+	max-width: 1200px;
+	background-image: url(img/profile_pic.jpg);
+	background-size: contain;
+	background-position: right;
+	background-repeat: no-repeat;
+	box-sizing: border-box;
+	padding: 40px;
+	margin: -180px 0 0 0;
+}
+
+.opening_title {
+	
+}
+
+.first_section {
+	display: flex;
+	justify-content: space-between;
+	font-size: 1em;
+	margin-top: -180px;	
+}
+
+.second_section {
+	font-size: 1.5em;
+	margin: 5%;
+	text-align: right;
+}
+
+.section_title {
+	padding: 0 0 0 10%;
+	order: 1;
+}
+
+.double_colon {
+	padding: 0 50px 0 0;
+	order: 2;
+}
+
+.main_navbar {
+	list-style: none;
+	font-size: 1.5em;
+}
+
+.main_navbar a {
+	border-bottom: 1.5px solid #fff;
+	text-decoration: none;
+	color: #fff;
+}
+
+@media (min-width: 500px) {
+.opening h1 {
+	font-size: 100px;
+	margin-top: 150px;
+}
+
+.first_section {
+	font-size: 2em;
+}
+
+.second_section {
+	max-width: 600px;
+	text-align: right;
+	font-size: 2em;
+	margin-right: 0;
+	margin-left: 50%;
+	margin-top: 0;
+}
+
+}
+
+/*
+Stripes-item
+width: 1px;
+line-height: 18ps;
+height: 907px;
+font-weight: 300;
+fint-ize: 13px;
+color: rgb(50, 50, 50);
+box-sizing: border-box;
+background-size: auto;
+background-origin: rgba(0, 0, 0, 0.0666667);
+background-clip: border-box;
+bakcgournd-attachment: scroll;
+font-family: 'Harmattan', sans-serif;
+*/
