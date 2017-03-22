@@ -94,6 +94,7 @@ h2 {
 }
 
 h5 {
+	color: #B2B2B2;
 	text-align: center;
 	font-size: 1.3em;
 	margin-bottom: 10px;
@@ -106,6 +107,9 @@ h5 {
 	flex-wrap: wrap;
 	justify-content: space-around;
 	flex: center;
+	margin-left: -20px;
+	margin-right: -20px;
+	margin-top: -79px;
 }
 
 .sectionOne .dotmap {
