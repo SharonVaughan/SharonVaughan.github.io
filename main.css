@@ -161,7 +161,7 @@ h5 {
 .sectionThree {
 	display: flex;
 	justify-content: space-around;
-	margin-top: 30px;
+	margin-top: 70px;
 	margin-bottom: 0px;
 }
 
@@ -173,6 +173,7 @@ h5 {
 .sectionFour {
 	display: flex;
 	justify-content: space-around;
+	margin-top: 70px;
 	margin-bottom: 30px;
 }
 
