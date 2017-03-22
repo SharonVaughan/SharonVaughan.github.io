@@ -1,5 +1,5 @@
 html {
-	width: 
+	width: 100%vw;
 }
 
 body {
@@ -142,13 +142,20 @@ h5 {
 .sectionTwo {
 	display: flex;
 	justify-content: space-around;
-	margin-top: 30px;
+	margin-top: 70px;
 	margin-bottom: 0px;
 }
 
 .sectionTwo img {
 	height: 30px;
 	width: 30px;
+}
+
+.video {
+	background-color: #434343;
+	height: 90px;
+	width: 90px;
+	margin: auto;
 }
 
 .sectionThree {
@@ -163,6 +170,20 @@ h5 {
 	width: 30px;
 }
 
+.sectionFour {
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 30px;
+}
+
+.sectionFour img {
+	height: 40px;
+	width: 40px;
+}
+
+p {
+	text-align: center;
+}
 @media (min-width: 500px) {
 
 
