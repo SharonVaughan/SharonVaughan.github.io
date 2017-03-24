@@ -12,14 +12,12 @@ body {
 	list-style-type: none;
 	display: flex;
 	top: 33px;
-	z-index: -9;
 	margin-left: -30px;
 	background-color: #313030;
 	width: 60%;
 	height: 30px;
 	justify-content: space-around;
 	align-items: center;
-
 }
 
 a {
@@ -42,6 +40,7 @@ a {
 .hero .photo {
 	order: 2;
 	margin-top: -40px;
+	z-index: -1;
 }
 
 .hero .name {
@@ -110,13 +109,6 @@ h5 {
 	margin-left: -20px;
 	margin-right: -20px;
 	margin-top: -79px;
-/*	box-sizing: inherit;*/
-
-
-/*  transition-timing-function: ease;*/
-/*  box-sizing: border-box;*/
-/*  height: 100%;
-  width: 100%;*/
 }
 
 .sectionOne .dotmap {
@@ -183,6 +175,15 @@ p {
 	margin: 60px 10px;
 }
 
+.form_container {
+	display: flex;
+}
+
+.form {
+	justify-content: space-around;
+	margin: 0 auto;
+}
+
 .svg-wrapper {
   margin: 0 auto;
   width: 100px;
@@ -211,23 +212,38 @@ p {
 }
 
 
-@media (min-width: 500px) {
+@media (min-width: 600px) {
+	html {
+		max-width: 900px;
+		margin: auto;
+	}
 
+	.logo img {
+		height: 55px;
+		width: 60px;
+	}
+
+	.hero .name h1 {
+		font-size: 3.5em;
+		line-height: .4em;
+	}
+
+	.hero .name h2 {
+		border: none;
+		font-size: 2.3em;
+		line-height: 0em;
+	}
+
+	.sectionOne {
+		margin-top: -93px;
+	}
+
+	h2 {
+		font-size: 2em;
+	}
+
+	p {
+		font-size: 1.3em;
+	}
 
 }
-
-/*
-Stripes-item
-width: 1px;
-line-height: 18ps;
-height: 907px;
-font-weight: 300;
-fint-ize: 13px;
-color: rgb(50, 50, 50);
-box-sizing: border-box;
-background-size: auto;
-background-origin: rgba(0, 0, 0, 0.0666667);
-background-clip: border-box;
-bakcgournd-attachment: scroll;
-font-family: 'Harmattan', sans-serif;
-*/
