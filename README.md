@@ -21,7 +21,7 @@ A potential employer will likely want to see what technology I can use, my "Tech
 ## Usability Heuristics
 This website duplicates the contemporary use of a long, single page layout. Initially I wanted interconnected pages but this might not be obvious to all users. So, as much as has been possible, all content is on the single page and clearly visible.
 
-Using mobile-first design development required fine grained use of space. Mobile-first constrained content but also my CSS follies. There are many examples of intelligent use of CSS; some too clever as content can remain hidden. Sadly, also, some CSS tricks don't work on mobile. Further narrowing the band-width of potential design mistakes.
+Using mobile-first design development required fine grained use of space. Mobile-first constrained content but also my CSS follies. There are many examples of intelligent use of CSS on the Internet; some too clever as content can remain hidden. Sadly, also, some CSS tricks don't work on mobile - further narrowing the band-width of potential design mistakes.
 
 The only fancy bit I did add, apart from intra-page and work links, was SVG decoration for a button. The button is at the bottom of the page, when pressed the user returns to the top.
 
