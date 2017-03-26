@@ -30,14 +30,12 @@ The only fancy bit I did add, apart from intra-page and work links, was SVG deco
 # Tech and Tools
 
 ## What was used in the creative process?
- * Figma              * Photoshop           * FontAwesome           * HTML           * Grab             * CodePen           * FormSpree
- * Pinterest          * Illustrator         * Google                * CSS            * Google           * GitHub            * Google
- * Google             * GitHub              * FavIcons              * SVG            * DevIcons         * Google            * ColorPicker
+ Figma, Photoshop, FontAwesome, Google, HTML, Grab, CodePen, FormSpree, Google, Pinterest, Illustrator, Google, CSS, Google, GitHub, Google, GitHub, FavIcons, Google, SVG, DevIcons, Google, ColorPicker, FlexBox, CSS Tricks, YouTube, Animista, Google.
 
 ### Future Updates
  - Change site navigation to fixed hamburger menu when user moves away from opening section.
- - Hmaburger menu to know here it is and hide option for current section.
- - Get all scripts working, html programs to be responsive.
+ - Hamburger menu aware of user location on site, hides option for self.section.
+ - Get all Work script hyperlinks working, html programs to be responsive.
  - Edit video to be shorter and remove references to why it was created.
  - Continue to add new work.
  - Add "choose your own adventure" element.
