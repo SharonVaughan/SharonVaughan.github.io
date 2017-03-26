@@ -27,3 +27,12 @@ The only fancy bit I did add, apart from intra-page and work links, was SVG deco
 
 ![top](https://cloud.githubusercontent.com/assets/20434999/24330873/0413dfee-1274-11e7-90c6-983a328a0a76.png)
 
+### Future Updates
+ - Change site navigation to fixed hamburger menu when user moves away from opening section.
+ - Hmaburger menu to know here it is and hide option for current section.
+ - Get all scripts working, html programs to be responsive.
+ - Edit video to be shorter and remove references to why it was created.
+ - Continue to add new work.
+ - Add "choose your own adventure" element.
+ - Add background animation.
+
