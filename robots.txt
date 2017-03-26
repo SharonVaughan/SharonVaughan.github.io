@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://SharonVaughan.github.io/sitemap.xml
